@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  black-jack.cpp
+c:\users\unforgiven\documents\visual studio 2015\projects\black-jack\black-jack\black-jack.cpp(188): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\unforgiven\documents\visual studio 2015\projects\black-jack\black-jack\black-jack.cpp(577): warning C4101: max: неиспользованная локальная переменная
+c:\users\unforgiven\documents\visual studio 2015\projects\black-jack\black-jack\black-jack.cpp(576): warning C4101: temp: неиспользованная локальная переменная
+c:\users\unforgiven\documents\visual studio 2015\projects\black-jack\black-jack\black-jack.cpp(659): warning C4715: rules1: значение возвращается не при всех путях выполнения
+c:\users\unforgiven\documents\visual studio 2015\projects\black-jack\black-jack\black-jack.cpp(316): warning C4715: gamerchoise: значение возвращается не при всех путях выполнения
+c:\users\unforgiven\documents\visual studio 2015\projects\black-jack\black-jack\black-jack.cpp(678): warning C4715: rules2: значение возвращается не при всех путях выполнения
+  black-jack.vcxproj -> c:\users\unforgiven\documents\visual studio 2015\Projects\black-jack\Debug\black-jack.exe
+  black-jack.vcxproj -> c:\users\unforgiven\documents\visual studio 2015\Projects\black-jack\Debug\black-jack.pdb (Full PDB)
